@@ -13,6 +13,8 @@ This tool is for educational use only, the author will not be held responsible f
 Windows(x64)
 
 Features:
+```
+commands:
 --> !message = Show a message box displaying your text / Syntax  = "!message example"
 --> !shell = Execute a shell command /Syntax  = "!shell whoami"
 --> !voice = Make a voice say outloud a custom sentence / Syntax = "!voice test"
@@ -59,3 +61,4 @@ Features:
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !help = This help menu
+```
